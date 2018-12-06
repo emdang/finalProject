@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: e3c0309c29f6e874e95f91b90966d497
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: backBoard
+    100002: backShort
+    100004: backShort 1
+    100006: backShort 2
+    100008: bottomDivider
+    100010: bottomDrawer
+    100012: //RootNode
+    100014: deskTop
+    100016: divider2
+    100018: divider3
+    100020: dividers
+    100022: drawerBottom
+    100024: drawerBottom 1
+    100026: drawerBottom 2
+    100028: frontShort
+    100030: frontShort 1
+    100032: frontShort 2
+    100034: handle
+    100036: handle 1
+    100038: handle 2
+    100040: left
+    100042: leftLegs
+    100044: leftLong
+    100046: leftLong 1
+    100048: leftLong 2
+    100050: middleDrawer
+    100052: middleLegs
+    100054: rightLegs
+    100056: rightLong
+    100058: rightLong 1
+    100060: rightLong 2
+    100062: topDivider
+    100064: topDrawer
+    400000: backBoard
+    400002: backShort
+    400004: backShort 1
+    400006: backShort 2
+    400008: bottomDivider
+    400010: bottomDrawer
+    400012: //RootNode
+    400014: deskTop
+    400016: divider2
+    400018: divider3
+    400020: dividers
+    400022: drawerBottom
+    400024: drawerBottom 1
+    400026: drawerBottom 2
+    400028: frontShort
+    400030: frontShort 1
+    400032: frontShort 2
+    400034: handle
+    400036: handle 1
+    400038: handle 2
+    400040: left
+    400042: leftLegs
+    400044: leftLong
+    400046: leftLong 1
+    400048: leftLong 2
+    400050: middleDrawer
+    400052: middleLegs
+    400054: rightLegs
+    400056: rightLong
+    400058: rightLong 1
+    400060: rightLong 2
+    400062: topDivider
+    400064: topDrawer
+    2000000: left
+    2100000: wood
+    2100002: lambert1
+    2300000: backBoard
+    2300002: backShort
+    2300004: backShort 1
+    2300006: backShort 2
+    2300008: bottomDivider
+    2300010: deskTop
+    2300012: divider2
+    2300014: divider3
+    2300016: drawerBottom
+    2300018: drawerBottom 1
+    2300020: drawerBottom 2
+    2300022: frontShort
+    2300024: frontShort 1
+    2300026: frontShort 2
+    2300028: handle
+    2300030: handle 1
+    2300032: handle 2
+    2300034: leftLegs
+    2300036: leftLong
+    2300038: leftLong 1
+    2300040: leftLong 2
+    2300042: middleLegs
+    2300044: rightLegs
+    2300046: rightLong
+    2300048: rightLong 1
+    2300050: rightLong 2
+    2300052: topDivider
+    3300000: backBoard
+    3300002: backShort
+    3300004: backShort 1
+    3300006: backShort 2
+    3300008: bottomDivider
+    3300010: deskTop
+    3300012: divider2
+    3300014: divider3
+    3300016: drawerBottom
+    3300018: drawerBottom 1
+    3300020: drawerBottom 2
+    3300022: frontShort
+    3300024: frontShort 1
+    3300026: frontShort 2
+    3300028: handle
+    3300030: handle 1
+    3300032: handle 2
+    3300034: leftLegs
+    3300036: leftLong
+    3300038: leftLong 1
+    3300040: leftLong 2
+    3300042: middleLegs
+    3300044: rightLegs
+    3300046: rightLong
+    3300048: rightLong 1
+    3300050: rightLong 2
+    3300052: topDivider
+    4300000: backBoard
+    4300002: rightLegs
+    4300004: deskTop
+    4300006: middleLegs
+    4300008: leftLegs
+    4300010: rightLong
+    4300012: drawerBottom
+    4300014: backShort
+    4300016: leftLong
+    4300018: frontShort
+    4300020: handle
+    4300022: rightLong
+    4300024: drawerBottom
+    4300026: backShort
+    4300028: leftLong
+    4300030: frontShort
+    4300032: handle
+    4300034: rightLong
+    4300036: drawerBottom
+    4300038: backShort
+    4300040: leftLong
+    4300042: frontShort
+    4300044: handle
+    4300046: topDivider
+    4300048: divider2
+    4300050: divider3
+    4300052: bottomDivider
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

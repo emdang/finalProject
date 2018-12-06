@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 98b7eee0e78b03f4a95ce73adb238ab3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ella: {fileID: 8300000, guid: 130bd79bfc2f8f14aa0c64a51e366e4e, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
